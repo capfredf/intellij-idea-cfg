@@ -1,0 +1,19 @@
+<application>
+  <component name="libraryTable">
+    <library name="antlr-4.7.1-complete">
+      <CLASSES>
+        <root url="jar:///usr/local/Cellar/antlr/4.7.1/antlr-4.7.1-complete.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="scala-sdk-2.11.4">
+      <CLASSES>
+        <root url="jar:///usr/local/opt/scala/idea/lib/scala-library.jar!/" />
+        <root url="jar:///usr/local/opt/scala/idea/lib/scala-reflect.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>

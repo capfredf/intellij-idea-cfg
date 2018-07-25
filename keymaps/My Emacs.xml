@@ -1,0 +1,83 @@
+<keymap version="1" name="My Emacs" parent="Emacs">
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+  </action>
+  <action id="CollapseAll" />
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="CollapseRegion" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="alt k" second-keystroke="alt l" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorKillRingSave">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="EditorKillToWordEnd">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorKillToWordStart">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="EditorPageUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_up" />
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="EditorPreviousWordWithSelection" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="Maven.ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift meta 5" />
+  </action>
+</keymap>

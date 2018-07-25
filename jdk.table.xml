@@ -1,0 +1,172 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="graalvm-1.0.0-rc2" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_171&quot;" />
+      <homePath value="$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/jvmci-services.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/jre/lib/rt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/lib/ant-javafx.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/lib/dt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/lib/javafx-mx.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/lib/jconsole.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/lib/packager.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/lib/sa-jdi.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/lib/tools.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/src.zip!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc2/Contents/Home/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Old" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_172&quot;" />
+      <homePath value="$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/jvmci-services.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/jre/lib/rt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/lib/ant-javafx.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/lib/dt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/lib/javafx-mx.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/lib/jconsole.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/lib/packager.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/lib/sa-jdi.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/lib/tools.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/src.zip!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/labsjdk1.8.0_172-jvmci-0.44/Contents/Home/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="graalvm-1.0.0-rc3" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_172&quot;" />
+      <homePath value="$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/jvmci-services.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/jre/lib/rt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/lib/ant-javafx.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/lib/dt.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/lib/javafx-mx.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/lib/jconsole.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/lib/packager.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/lib/sa-jdi.jar!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/lib/tools.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/src.zip!/" type="simple" />
+            <root url="jar://$USER_HOME$/java-vms/graalvm-ee-1.0.0-rc3/Contents/Home/javafx-src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
